@@ -23,4 +23,10 @@ It is designed to run **only in a safe, local lab environment** such as a sandbo
 - **Demo runner** to simulate both attack and detection in one session.
 - Auto-creation of log directory and timestamped keystroke logging.
 
+## Security Lessons
+- **Input interception is easy at the user level.
+- **Detection tools must monitor active processes and hooks.
+- **Logging keystrokes without consent is illegal; security teams must defend against this.
+
+
 
