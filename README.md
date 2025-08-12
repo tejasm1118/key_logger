@@ -1,5 +1,7 @@
 # Keylogger Lab (Educational Cybersecurity Project)
 
+<img width="1013" height="386" alt="image" src="https://github.com/user-attachments/assets/7784c02f-9778-43b8-b062-c43efce31e7e" />
+
 ## ⚠️ Disclaimer
 This project is for **educational use only**.  
 Do **NOT** use this tool on any system without explicit permission from the owner.  
