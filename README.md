@@ -1,8 +1,6 @@
-# Keylogger Lab (Educational Cybersecurity Project)
+# Keylogger Lab
 
 <img width="1013" height="386" alt="image" src="https://github.com/user-attachments/assets/7784c02f-9778-43b8-b062-c43efce31e7e" />
-<img width="754" height="555" alt="image" src="https://github.com/user-attachments/assets/21371be9-0d94-4a4d-b978-2d962bc10393" />
-
 
 ## ⚠️ Disclaimer
 This project is for **educational use only**.  
@@ -18,6 +16,10 @@ This lab demonstrates:
 - The importance of endpoint security in defending against such threats.
 
 It is designed to run **only in a safe, local lab environment** such as a sandbox or virtual machine.
+
+
+<img width="754" height="555" alt="image" src="https://github.com/user-attachments/assets/21371be9-0d94-4a4d-b978-2d962bc10393" />
+key strokes detected stored in log file
 
 ---
 
