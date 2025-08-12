@@ -19,6 +19,7 @@ It is designed to run **only in a safe, local lab environment** such as a sandbo
 
 
 <img width="754" height="555" alt="image" src="https://github.com/user-attachments/assets/21371be9-0d94-4a4d-b978-2d962bc10393" />
+
 key strokes detected stored in log file
 
 ---
