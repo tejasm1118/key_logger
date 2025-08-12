@@ -26,3 +26,15 @@ It is designed to run **only in a safe, local lab environment** such as a sandbo
 ---
 
 ## 📂 Project Structure
+keylogger-lab/
+│
+├── README.md # Project documentation
+├── requirements.txt # Dependencies
+├── .gitignore # Ignores logs and other local files
+│
+├── src/
+│ ├── keylogger.py # Educational keylogger
+│ ├── detector.py # Process detection script
+│ └── demo_runner.py # Runs keylogger + detector together
+│
+└── logs/ # Keystroke logs (not tracked in Git)
